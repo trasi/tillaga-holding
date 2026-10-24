@@ -1,6 +1,6 @@
 # tillaga-holding
 
-Holding page for https://tillaga.is while the project is paused.
+Holding page for https://www.tillaga.is (and tillaga.is) while the project is paused.
 Served by GitHub Pages from the `main` branch. The product repo is `trasi/tillaga`.
 
 ## DNS (Route 53 zone `Z08811203NQOJSR2H4ACG`)
